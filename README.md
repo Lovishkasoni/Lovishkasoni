@@ -6,7 +6,7 @@
 
    **Programming Languages:**
 [html](https://github.com/sripriyaagarwal16#)
-[css](https://github.com/sripriyaagarwal16#)
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/6fcbc4fb-51c7-4f80-94ac-253baf2cf2ee" />
 [Python](https://github.com/sripriyaagarwal16#)
      * pandas
      * numpy
