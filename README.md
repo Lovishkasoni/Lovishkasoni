@@ -1,15 +1,15 @@
  # Hi there, I'm Lovishka Soni ! 👋
 
-   I'm an AI/ML student with a focus on machine Learning.
+ I'm an AI/ML student, delving into machine learning and data analysis to enhance my technical expertise.
 
-  ## Skills
+ ## Skills
 
    **Programming Languages:**
-    * Python
-    * html
-    * css
-    * pandas
-    * numpy
-    * matplotlib
-    * seaborn
-    * mongoDB
+[html](https://github.com/sripriyaagarwal16#)
+[css](https://github.com/sripriyaagarwal16#)
+[Python](https://github.com/sripriyaagarwal16#)
+     * pandas
+     * numpy
+     * matplotlib
+     * seaborn
+[mongoDB](https://github.com/sripriyaagarwal16#)
