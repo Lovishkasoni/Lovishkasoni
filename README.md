@@ -1,6 +1,6 @@
  # Hi there, I'm Lovishka Soni ! 👋
 
- I'm an AI/ML student, delving into machine learning and data analysis to enhance my technical expertise.
+An AI/ML student, delving into machine learning and data analysis to enhance my technical expertise.
 
  ## Skills
 
