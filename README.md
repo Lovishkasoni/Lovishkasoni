@@ -90,7 +90,6 @@ A powerful web-based machine learning dashboard that allows you to train, compar
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 
-</p>
 
 ---
 
