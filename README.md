@@ -57,6 +57,18 @@ A powerful web-based machine learning dashboard that allows you to train, compar
 <a href="https://github.com/Lovishkasoni/ml-model-comparison-dashboard">
   <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
 </a>
+</td>
+
+<td width="50%" valign="top">
+
+### ContinualLearningANN
+A research project prototype implementing the **DEAR framework** (Drift-Aware EWC with Adaptive Replay) for continual learning on Chest X-ray datasets.
+
+**Tech:** PyTorch, TorchVision, NumPy, Pandas, Scikit-learn, OpenCV, Matplotlib, TensorBoard, SciPy, Kaggle API.
+
+<a href="https://github.com/Lovishkasoni/ContinualLearningANN">
+  <img src="https://img.shields.io/badge/View%20Code-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
